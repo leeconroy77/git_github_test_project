@@ -9,3 +9,8 @@ li{
 h1 {
   color: bisque;
 }
+
+p {
+  color: crimson;
+  font-size: 1.5em;
+}
